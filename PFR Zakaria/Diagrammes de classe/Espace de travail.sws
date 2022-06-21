@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{00AC55E1-0C6C-4103-AD40-E2B920A718A3}" Name="Diagramme V.Finale" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Diagramme V.Finale.moo"/>
+		<Model Expanded="Yes" ID="{09C56905-FAC7-4802-BE21-BABB81A6A6A3}" Name="MPD V.Finale" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="MPD V.Finale.mpd"/>
+		<Model Expanded="Yes" ID="{06E6F6E7-1084-493C-849B-5620762C81F9}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="ModeleOrienteObjet_3.mpd"/>
+		<Model ID="{31C42611-052E-4C01-B0F1-79EDE763ED71}" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../Use Case/UseCase PFR.moo"/>
+		<Model ID="{ADE41FD2-2528-44AD-B225-6B49B1464379}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ModeleOrienteObjet_1&#39;.moo"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
